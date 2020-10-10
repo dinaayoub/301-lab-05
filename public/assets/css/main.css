@@ -4,3 +4,7 @@
 @import "base.css";
 @import "layout.css";
 @import "modules.css";
+
+@media screen and  (max-width: 767px) and (min-width: 478px) {
+
+}
